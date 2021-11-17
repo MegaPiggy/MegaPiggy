@@ -1,6 +1,10 @@
-### Hi there 👋
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MegaPiggy&show_icons=true&theme=tokyonight)](https://github.com/MegaPiggy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MegaPiggy&langs_count=10&theme=tokyonight)](https://github.com/MegaPiggy)<!--&layout=compact-->
+[![SALT](https://github-readme-stats.vercel.app/api/pin/?username=MegaPiggy&theme=tokyonight&repo=SALT)](https://github.com/MegaPiggy/SALT)
 
 <!--
+### Hi there 👋
+
 **MegaPiggy/MegaPiggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
