@@ -1,4 +1,4 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MegaPiggy&show_icons=true&theme=tokyonight&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000)](https://github.com/MegaPiggy)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MegaPiggy&count_private=true&show_icons=true&theme=tokyonight&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000)](https://github.com/MegaPiggy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MegaPiggy&langs_count=10&theme=tokyonight&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000)](https://github.com/MegaPiggy)<!--&layout=compact-->
 [![SALT](https://github-readme-stats.vercel.app/api/pin/?username=MegaPiggy&theme=tokyonight&repo=SALT&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000)](https://github.com/MegaPiggy/SALT)
 
