@@ -24,7 +24,7 @@ This includes some of my private repos
 <br/>
 <br/>
 
-[QuantumMoonOrbitLine](https://github-readme-stats-megapiggy.vercel.app/api/wakatime?username=MegaPiggy&theme=tokyonight&repo=QuantumMoonOrbitLine&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&custom_title=Weekly%20Stats)
+[Weekly Stats](https://github-readme-stats-megapiggy.vercel.app/api/wakatime?username=MegaPiggy&theme=tokyonight&repo=QuantumMoonOrbitLine&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&custom_title=Weekly%20Stats)
 
 [![QuantumMoonOrbitLine](https://github-readme-stats-megapiggy.vercel.app/api/pin/?username=MegaPiggy&theme=tokyonight&repo=QuantumMoonOrbitLine&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000)](https://github.com/MegaPiggy/QuantumMoonOrbitLine)
 [![UpsilonAndromedae](https://github-readme-stats-megapiggy.vercel.app/api/pin/?username=MegaPiggy&theme=tokyonight&repo=UpsilonAndromedae&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000)](https://github.com/MegaPiggy/UpsilonAndromedae)
