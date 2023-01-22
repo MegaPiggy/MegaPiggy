@@ -6,6 +6,7 @@
  
  
  
+<img alt="Weekly Stats" src="https://github-readme-stats-megapiggy.vercel.app/api/wakatime?username=MegaPiggy&theme=tokyonight&bg_color=00000000&title_color=4F8CC9&text_color=9f9f9f&custom_title=Weekly%20Stats">
  
 [![Top Langs](https://github-readme-stats-megapiggy.vercel.app/api/top-langs/?username=MegaPiggy&langs_count=12&theme=tokyonight&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000)](https://github.com/MegaPiggy)
  
@@ -23,8 +24,6 @@ This includes some of my private repos
 <br/>
 <br/>
 <br/>
-
-[Weekly Stats](https://github-readme-stats-megapiggy.vercel.app/api/wakatime?username=MegaPiggy&theme=tokyonight&repo=QuantumMoonOrbitLine&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&custom_title=Weekly%20Stats)
 
 [![QuantumMoonOrbitLine](https://github-readme-stats-megapiggy.vercel.app/api/pin/?username=MegaPiggy&theme=tokyonight&repo=QuantumMoonOrbitLine&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000)](https://github.com/MegaPiggy/QuantumMoonOrbitLine)
 [![UpsilonAndromedae](https://github-readme-stats-megapiggy.vercel.app/api/pin/?username=MegaPiggy&theme=tokyonight&repo=UpsilonAndromedae&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000)](https://github.com/MegaPiggy/UpsilonAndromedae)
