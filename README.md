@@ -6,7 +6,7 @@
  
  
  
-<a href="https://wakatime.com/@MegaPiggy"><img alt="Weekly Stats" src="https://github-readme-stats-megapiggy.vercel.app/api/wakatime?username=MegaPiggy&theme=tokyonight&bg_color=00000000&title_color=4F8CC9&text_color=9f9f9f&custom_title=Weekly%20Stats&hide=Groovy,Binary"></a>
+<a href="https://wakatime.com/@MegaPiggy"><img alt="Wakatime Stats" src="https://github-readme-stats-megapiggy.vercel.app/api/wakatime?username=MegaPiggy&theme=tokyonight&bg_color=00000000&title_color=4F8CC9&text_color=9f9f9f&custom_title=Wakatime%20Stats&hide=Groovy,Binary"></a>
  
 [![Top Langs](https://github-readme-stats-megapiggy.vercel.app/api/top-langs/?username=MegaPiggy&langs_count=12&theme=tokyonight&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000)](https://github.com/MegaPiggy)
  
