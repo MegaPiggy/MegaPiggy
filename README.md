@@ -2,6 +2,7 @@
 [![SALT](https://github-readme-stats-megapiggy.vercel.app/api/pin/?username=MegaPiggy&theme=tokyonight&repo=SALT&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000)](https://github.com/MegaPiggy/SALT)
 [![OWRichPresence](https://github-readme-stats-megapiggy.vercel.app/api/pin/?username=MegaPiggy&theme=tokyonight&repo=OWRichPresence&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000)](https://github.com/MegaPiggy/OWRichPresence)
 [![New Horizons](https://github-readme-stats-megapiggy.vercel.app/api/pin/?username=Outer-Wilds-New-Horizons&theme=tokyonight&repo=new-horizons&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000)](https://github.com/Outer-Wilds-New-Horizons/new-horizons)
+
 [![Top Langs](https://github-readme-stats-megapiggy.vercel.app/api/top-langs/?username=MegaPiggy&langs_count=12&theme=tokyonight&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000)](https://github.com/MegaPiggy)
 <a href="https://wakatime.com/@MegaPiggy"><img alt="Wakatime Stats" src="https://github-readme-stats-megapiggy.vercel.app/api/wakatime?username=MegaPiggy&theme=tokyonight&bg_color=00000000&title_color=4F8CC9&text_color=9f9f9f&custom_title=Wakatime%20Stats&hide=Groovy,Binary,Text,Logos,Image%20(png),Properties"></a>
 
